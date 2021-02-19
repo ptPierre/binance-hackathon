@@ -1,5 +1,5 @@
 import React from 'react';
-import { Logo } from '../../icons';
+import { Logo } from '../../assets';
 import HeaderLogoStyles from './HeaderLogo.style';
 import { Typography } from '@material-ui/core';
 import { string } from 'prop-types';
