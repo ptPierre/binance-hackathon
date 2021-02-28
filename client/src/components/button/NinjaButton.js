@@ -37,7 +37,7 @@ const BaseButton = styled(({ color, backgroundColor, ...props }) => <Button {...
   },
 });
 
-const NinjaButton = styled(({ text, ...props }) => (
+export const NinjaButton = styled(({ text, ...props }) => (
   <BaseButton
     backgroundColor={colorTheme.blue}
     color="#fff"

@@ -1,0 +1,11 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "backend to strava app",
+  "main": "src/index.js",
+  "author": "piouson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
